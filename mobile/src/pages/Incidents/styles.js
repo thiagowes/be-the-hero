@@ -16,7 +16,7 @@ export default StyleSheet.create({
     fontSize: 15,
     color: '#737380',
   },
-  hearderTextBold: {
+  headerTextBold: {
     fontWeight: 'bold',
   },
   title: {
